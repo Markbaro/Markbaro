@@ -1,11 +1,14 @@
-### Hi there 👋
+#include <stdio.h>
 
-Here are some ideas to get you started:
+/***LONG LIVE C***/
+
+int main (Hi there 👋)
+{
 
 - 🔭 I’m currently learning c programming ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on c coding challenges and simple programs
+- 🤔 I’m looking for help with structures
 - 💬 Ask me about ...
 - 📫 How to reach me: markbarasa2021@gmail.com...
 - 😄 Pronouns: ...
@@ -13,3 +16,4 @@ Here are some ideas to get you started:
 -->good in linux-shell bash
 --system documentation
 --algorithms,pseudocoding and flow charts
+}
