@@ -22,6 +22,8 @@ int main (Hi there 👋)
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Markbaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markbaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
