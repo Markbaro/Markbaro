@@ -24,8 +24,6 @@ int main (Hi there 👋)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markbaro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-// README.md
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username= Markbaro)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
 
