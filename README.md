@@ -22,3 +22,7 @@ int main (Hi there 👋)
 
 --RETURN ALWAYS POSITIVITY
 }
+
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=Markbaro&theme=highcontrast&show_icons=true&count_private=true)
+
