@@ -24,7 +24,7 @@ int main (Hi there 👋)
 }
 
 // README.md
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Markbaro&theme=dark&background=000000)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Markbaro&theme=highcontrast&show_icons=true&count_private=true)
 
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true
