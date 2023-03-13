@@ -8,14 +8,6 @@
   <img src=""https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
-</div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markbaro" alt="markbaro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **C low level programming**
 
 - 👯 I’m looking to collaborate on **beginner friendly C project**
@@ -30,7 +22,17 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mark-barasa-1421b124b/](https://www.linkedin.com/in/mark-barasa-1421b124b/)
 
-- ⚡ Fun fact **printf("fuuuny");**
+- ⚡ Fun fact **am blood group C[code]
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
+</div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markbaro" alt="markbaro" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
