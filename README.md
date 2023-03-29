@@ -1,10 +1,16 @@
+<h1>
+  hey there
+  <img src=""https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW width="30px"/>
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm Mark Barasa</h1>
 <h3 align="center">Software Engeneering Student - @ ALX UNIVERSITY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markbaro&label=Profile%20views&color=0e75b6&style=flat" alt="markbaro" /> </p>
 
 <h1>
-  <b>Hey There</b>
+  hey there
   <img src=""https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW width="30px"/>
 </h1>
 
