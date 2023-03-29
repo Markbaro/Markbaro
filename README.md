@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ride My Way App](https://github.com/Ninolincy/Ride_My_Way)
 
-- 🌱 I’m currently learning <b>SOFTWARE ENGENEERING</b> at <a href"https://www.holbertonschool.com/"="ALX and HOLBERTON SCHOOL"/a>
+-<p> 🌱 I’m currently learning <b>SOFTWARE ENGENEERING</b> at <a href"https://www.holbertonschool.com/"="ALX and HOLBERTON SCHOOL"/a></p>
 
 - 👯 I’m looking to collaborate on **C programming codding challenges**
 
