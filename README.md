@@ -9,10 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markbaro&label=Profile%20views&color=0e75b6&style=flat" alt="markbaro" /> </p>
 
-<h1>
-  hey there
-  <img src=""https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW width="30px"/>
-</h1>
+
 
 - 🌱 I’m currently learning **C low level programming**
 
